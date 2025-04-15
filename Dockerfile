@@ -1,5 +1,5 @@
 # Basierend auf dem offiziellen n8n Image
-FROM n8n/n8n:latest
+FROM n8nio/n8n:latest
 
 # Wechsel zu root, um zusätzliche Pakete installieren zu können
 USER root
